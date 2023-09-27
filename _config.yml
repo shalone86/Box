@@ -4,7 +4,7 @@ title: Vox Fidelium
 description: A Call to all Faithful Catholics to raise their voices to proclaim our belief in the infallible teachings of the Church.
 taglong: A Call to all Faithful Catholics
 tagshort: Jekyll theme
-url: /
+url: ""
 baseurl: ""
 permalink: pretty
 repo: https://github.com/username/username.github.io
@@ -14,7 +14,7 @@ repo: https://github.com/username/username.github.io
 author:
   name: 
   email: 
-photo: 
+photo: https://sdcason.com/risen-christ-appears-to-his-mother-1600-italy-by-daniele-monteleone-public-domain-catholic-painting/
 
 # social media links
 
